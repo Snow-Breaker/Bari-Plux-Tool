@@ -14,6 +14,12 @@ BPT started as a personal tool for PUBG Mobile graphics settings and GameLoop ke
 
 <sub>Status updated: 21 October 2026.</sub>
 
+## A look inside BPT
+
+[![Bari Plux Tool for Windows — Home dashboard with emulator status, system health and quick actions](./assets/bpt-windows-home.png)](./assets/bpt-windows-home.png)
+
+<sub>The Windows Home dashboard. Open the image to view the interface at full resolution.</sub>
+
 ## BPT for Windows
 
 - **Graphics & controls:** FPS and graphics settings, Custom View, keymapping and control profiles.
